@@ -1,1 +1,5 @@
 Flask
+Response
+numpy
+pandas
+scikit-learn
